@@ -1,0 +1,3 @@
+int string dialog_Warning 0x0
+int string dialog_more_info 0x0
+int string solution 0x0

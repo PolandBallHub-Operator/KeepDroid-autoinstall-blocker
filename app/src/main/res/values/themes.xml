@@ -1,0 +1,1 @@
+<resources><style name="Theme.KeepDroidMaker" parent="Theme.Material3.DynamicColors.DayNight.NoActionBar"><item name="android:fontFamily">sans</item><item name="android:statusBarColor">?attr/colorSurface</item><item name="android:navigationBarColor">?attr/colorSurface</item></style></resources>

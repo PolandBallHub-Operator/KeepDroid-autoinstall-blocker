@@ -1,0 +1,4 @@
+org.woheller69.freeDroidWarn
+string dialog_Warning
+string dialog_more_info
+string solution

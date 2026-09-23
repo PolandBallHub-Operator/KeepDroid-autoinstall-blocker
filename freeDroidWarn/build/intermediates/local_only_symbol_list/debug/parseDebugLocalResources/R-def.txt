@@ -1,0 +1,5 @@
+R_DEF: Internal format may change without notice
+local
+string dialog_Warning
+string dialog_more_info
+string solution

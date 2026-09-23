@@ -1,0 +1,15 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ubuntu/KeepDroidMaker/freeDroidWarn/src/main/AndroidManifest.xml:1:1-51
+INJECTED from /home/ubuntu/KeepDroidMaker/freeDroidWarn/src/main/AndroidManifest.xml:1:1-51
+	package
+		ADDED from /home/ubuntu/KeepDroidMaker/freeDroidWarn/src/main/AndroidManifest.xml:1:11-49
+		INJECTED from /home/ubuntu/KeepDroidMaker/freeDroidWarn/src/main/AndroidManifest.xml
+uses-sdk
+INJECTED from /home/ubuntu/KeepDroidMaker/freeDroidWarn/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/ubuntu/KeepDroidMaker/freeDroidWarn/src/main/AndroidManifest.xml
+INJECTED from /home/ubuntu/KeepDroidMaker/freeDroidWarn/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/ubuntu/KeepDroidMaker/freeDroidWarn/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/ubuntu/KeepDroidMaker/freeDroidWarn/src/main/AndroidManifest.xml

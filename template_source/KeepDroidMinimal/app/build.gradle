@@ -1,0 +1,4 @@
+plugins { id 'com.android.application' }
+android { namespace 'com.app.base'; compileSdk 35
+    defaultConfig { applicationId 'com.app.base'; minSdk 28; targetSdk 35; versionCode 2; versionName '1.0-minbase' }
+}

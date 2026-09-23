@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_Warning">The platform operator has announced that, starting in 2026/2027, apps on certified Android devices may require developers to submit personal identity details. This warning explains how that kind of requirement can affect sideloading, independent developers, and user choice.</string>
+    <string name="dialog_more_info">Details</string>
+    <string name="solution">Solution</string>
+</resources>

@@ -1,0 +1,46 @@
+KeepDroid Auto-installation blocker Maker — complete third-party notice
+
+This project distributes or builds with the following open-source components. The complete Apache License 2.0 text is included in licenses/Apache-2.0.txt. The complete GPLv3 text for aXML is included in licenses/GPL-3.0-aXML.txt. Corresponding aXML source is included in third_party_source/aXML/. The complete `com.app.base` template project source is included in template_source/KeepDroidMinimal/.
+
+1. FreeDroidWarn
+   License: Apache License 2.0
+   Upstream: https://github.com/woheller69/FreeDroidWarn
+   Status: Included as the `freeDroidWarn` module in the Maker application. The generated minimal `com.app.base` APK intentionally does not package this UI/library.
+   Note: The bundled warning text is adapted to avoid product-name branding while preserving the warning purpose; the upstream source and license are retained in the module.
+
+2. AndroidX AppCompat 1.7.0
+   License: Apache License 2.0
+   Upstream: https://developer.android.com/jetpack/androidx
+
+3. AndroidX Core 1.15.0
+   License: Apache License 2.0
+   Upstream: https://developer.android.com/jetpack/androidx
+
+4. Material Components for Android 1.12.0
+   License: Apache License 2.0
+   Upstream: https://github.com/material-components/material-components-android
+
+5. Android apksig 9.4.0
+   License: Apache License 2.0
+   Upstream: https://android.googlesource.com/platform/tools/apksig/
+
+6. aXML, commit d43b543
+   Dependency: com.github.apk-editor:aXML:d43b543
+   License: GNU General Public License, version 3 (GPLv3)
+   Upstream: https://github.com/apk-editor/aXML
+   Full license: licenses/GPL-3.0-aXML.txt
+   Corresponding source: third_party_source/aXML/
+   Important: aXML is GPLv3, not Apache-2.0. Redistribution of a combined work containing this library must comply with GPLv3, including applicable source-code, license, and notice obligations.
+
+7. Zip4j 2.11.6
+   License: Apache License 2.0
+   Upstream: https://github.com/srikanth-lingala/zip4j
+
+8. Android SDK Platform 35 and Android Gradle Plugin 8.6.1
+   These are build tools and are not vendored as project source libraries. Their own license notices are supplied by the Android SDK and Gradle/Android build distributions and must be followed by the builder.
+
+License files included in this source package:
+- licenses/Apache-2.0.txt — full Apache License 2.0 text for Apache-licensed dependencies.
+- licenses/GPL-3.0-aXML.txt — full GPLv3 text for aXML.
+
+This notice is provided for source redistribution and is not legal advice. Before a public release, verify the resolved dependency graph and retain any additional transitive notices required by the exact artifacts you distribute.
